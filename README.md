@@ -4,7 +4,7 @@ This project is a simple **Transparent Login Form** created using **HTML** and *
 
 ## Preview
 
-![Login](/TransparentLoginForm/finalproduct.png)
+![Login](/finalproduct.png)
 
 ## Installation
 
